@@ -27,22 +27,22 @@
 
 <div align="center">
 
-<a href="[https://github.com/mohammadsadaf/techdesk](https://techdesk-eta.vercel.app/)">
+<a href="https://github.com/mohammadsadaf/techdesk">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadsadaf&repo=techdesk&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="[https://github.com/mohammadsadaf/StudyBestie](https://studybestie.onrender.com)">
+<a href="https://github.com/mohammadsadaf/StudyBestie">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadsadaf&repo=StudyBestie&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
 <p align="center">
 
-<a href="YOUR_TECHDESK_VERCEL_LINK">
+<a href="https://techdesk-eta.vercel.app/">
   <img src="https://img.shields.io/badge/TechDesk-Live%20Demo-7C3AED?style=for-the-badge" />
 </a>
 
-<a href="YOUR_STUDYBESTIE_LIVE_LINK">
+<a href="https://studybestie.onrender.com">
   <img src="https://img.shields.io/badge/StudyBestie-Live%20Demo-2563EB?style=for-the-badge" />
 </a>
 
