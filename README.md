@@ -7,6 +7,16 @@
 <p align="center">
   I build full-stack applications and AI-powered tools that solve real-world problems.
 </p>
+<h3 align="center">Tech Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,python,postgres,supabase,git,github,aws&perline=10" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full--Stack-111827?style=for-the-badge" />
+</p>
 
 <p align="center">
   💻 Full-Stack Development &nbsp; • &nbsp;
