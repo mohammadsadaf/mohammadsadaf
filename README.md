@@ -19,7 +19,31 @@
 </p>
 
 <p align="center">
-  💻 Full-Stack Development &nbsp; • &nbsp;
-  🤖 Artificial Intelligence &nbsp; • &nbsp;
-  ☁️ Cloud & AWS
+  Full-Stack Development &nbsp; • &nbsp;
+  Artificial Intelligence &nbsp; • &nbsp;
+  Cloud & AWS
+</p>
+<h2 align="center">Featured Projects</h2>
+
+<div align="center">
+
+<a href="[https://github.com/mohammadsadaf/techdesk](https://techdesk-eta.vercel.app/)">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadsadaf&repo=techdesk&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="[https://github.com/mohammadsadaf/StudyBestie](https://studybestie.onrender.com)">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadsadaf&repo=StudyBestie&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+<p align="center">
+
+<a href="YOUR_TECHDESK_VERCEL_LINK">
+  <img src="https://img.shields.io/badge/TechDesk-Live%20Demo-7C3AED?style=for-the-badge" />
+</a>
+
+<a href="YOUR_STUDYBESTIE_LIVE_LINK">
+  <img src="https://img.shields.io/badge/StudyBestie-Live%20Demo-2563EB?style=for-the-badge" />
+</a>
+
 </p>
